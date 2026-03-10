@@ -19,7 +19,6 @@ A secure REST API for the SecureTransfer funds transfer application, built with 
 |----------|----------  |--------- |---------  |
 | `marwan` | `1234`     | ACC-1003 | $7,200.00 |
 | `zain`   | `1234`     | ACC-1002 | $3,500.00 |
-| `alice`  | `alice123` | ACC-1001 | $5,000.00 |
 
 ---
 
