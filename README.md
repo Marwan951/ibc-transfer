@@ -8,19 +8,17 @@ A secure REST API for the SecureTransfer funds transfer application, built with 
 
 **Frontend:** https://cheery-squirrel-698acf.netlify.app
 
-**Backend API:** https://ibc-transfer-production.up.railway.app
-
-**Swagger UI:** https://ibc-transfer-production.up.railway.app/swagger-ui/index.html
+**Backend API - Swagger UI:** https://ibc-transfer-production.up.railway.app/swagger-ui/index.html#/ 
 
 ---
 
 ## 🔐 Sample Credentials
 
-| Username | Password | Account | Balance |
-|----------|----------|---------|---------|
-| `marwan` | `1234` | ACC-1003 | $7,200.00 |
-| `alice` | `alice123` | ACC-1001 | $5,000.00 |
-| `zain` | `alice123` | ACC-1002 | $3,500.00 |
+| Username | Password   | Account  | Balance   |
+|----------|----------  |--------- |---------  |
+| `marwan` | `1234`     | ACC-1003 | $7,200.00 |
+| `zain`   | `1234`     | ACC-1002 | $3,500.00 |
+| `alice`  | `alice123` | ACC-1001 | $5,000.00 |
 
 ---
 
