@@ -1,5 +1,0 @@
-# Created at 2026-03-10T16:30:02.218
-Boot Manifest-JAR contains absolute paths in classpath 'G:\Work\Preparation\IBC Solutions\securetransfer (1)\securetransfer\backend\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-
