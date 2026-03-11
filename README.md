@@ -7,7 +7,7 @@ A secure REST API for the SecureTransfer funds transfer application, built with 
 ## 🌐 Live Demo
 **Live Demo:**   https://cheery-squirrel-698acf.netlify.app
 
-**Frontend Repo :** https://github.com/Marwan951/ibc-transfer-frontend
+**Frontend Repo :** https://github.com/Marwan951/ibc-transfer-frontend.git
 
 **Backend API - Swagger UI:** https://ibc-transfer-production.up.railway.app/swagger-ui/index.html#/ 
 
