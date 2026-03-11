@@ -131,7 +131,7 @@ src/
 ### Prerequisites
 - Java 17+
 - Maven 3.x
-- SQL Server (SSMS) or PostgreSQL
+- PostgreSQL 18
 - Git
 
 ### 1. Clone the repository
@@ -140,8 +140,8 @@ git clone https://github.com/Marwan951/ibc-transfer.git
 cd ibc-transfer/backend
 ```
 
-### 2. Database Setup (SQL Server - Local)
-Open SSMS and run:
+### 2. Database Setup (PostgreSQL - Local)
+Open PgAdmin4 and run:
 ```sql
 CREATE DATABASE IBCTransfer;
 ```
@@ -149,9 +149,9 @@ The app will auto-create tables on first run (`ddl-auto=create`).
 
 ### 3. Configure `application.properties`
 ```properties
-spring.datasource.url=jdbc:sqlserver://localhost;databaseName=IBCTransfer;encrypt=true;trustServerCertificate=true
-spring.datasource.username=sa
-spring.datasource.password=YOUR_PASSWORD
+spring.datasource.url= 
+spring.datasource.username=
+spring.datasource.password= 
 ```
 
 ### 4. Run the application
